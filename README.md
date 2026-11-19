@@ -77,4 +77,15 @@ A **Contract × Payment Method** heatmap was also created to examine combined cu
 
 1. Overall customer churn in the dataset is approximately **26.5%**.
 2. Month-to-month customers have substantially higher churn than customers on one-year or two-year contracts.
-3. Two-year contract customers show the lowest churn
+3. Two-year contract customers show the lowest churn rate.
+4. Fiber optic customers have a higher churn rate than DSL and customers without internet service.
+5. Customers without Tech Support have considerably higher churn than customers with Tech Support.
+6. Customers without Online Security also show substantially higher churn.
+7. Electronic check customers have the highest churn rate among the payment methods analyzed.
+8. Customers with shorter tenure show considerably higher churn than long-tenure customers.
+9. Customers with 49+ months of tenure have much lower churn than newer customers.
+10. Customers with higher Monthly Charges have a higher average charge among churned customers than among customers who stayed.
+11. Senior citizens show a higher churn rate than non-senior citizens.
+12. Customers without partners have higher churn than customers with partners.
+13. Customers without dependents also have higher churn.
+14. Gender shows relatively little difference in churn compared with stronger factors such as contract type, tenure, support services, and payment method.
